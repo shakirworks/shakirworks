@@ -11,8 +11,7 @@ Administered the MS SQL Server of the company applications, crafting procedures,
 Hands-on experience on creating an Azure Hybrid Architecture which connected to on premise private network via VPN ExpressRoute Tunnel over VNet peering
 
 
-<img width="219" height="198" alt="image" align ="center" src="https://github.com/user-attachments/assets/e77c06d0-f88c-4998-84f3-9a7f8954a6be" />
-
+<img width="227" height="191" alt="image" src="https://github.com/user-attachments/assets/973078e2-c068-479e-be3f-0e71d9b4977f" />
 
 Built end to end POC ETL Pipelines on Azure Data Factory demonstrating the compatibility of Azure PaaS tools over legacy frameworks such as SSIS and Linked servers.
 
@@ -20,7 +19,8 @@ Strategized Disaster Recovery and Data Governance/lifecycle plan with the Azure 
 Documented the Migration Strategy, Solution design and the Operation Support Plan for the Azure Cloud Architecture. 
 
 
-<img width="343" height="186" alt="image" src="https://github.com/user-attachments/assets/1c898668-c3f3-4a65-bb8b-579309f5b25d" />
+<img width="423" height="174" alt="image" src="https://github.com/user-attachments/assets/957e0bc3-bc83-4159-9298-9d7ef383ebc2" />
+
 
 
 Written SQL data models in Dbt which generated key performance metrics for inventory management, marketing campaign and product performance. 
@@ -35,7 +35,8 @@ Utilized Dbt’s built-in schema testing in YAML to ensure the data relationship
 
 Applied unit test cases with sample data to check the query results and custom SQL tests to validate column values for nulls or duplicates.  
 
-<img width="252" height="207" alt="image" src="https://github.com/user-attachments/assets/41c634ac-b43a-4357-91ad-ff770ab21e9a" />
+<img width="600" height="274" alt="image" src="https://github.com/user-attachments/assets/9852a606-e5e9-45f4-a851-7ac52767d309" />
+
 
 Published and scheduled DAG models on Apache Airflow. 
 
