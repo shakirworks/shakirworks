@@ -4,7 +4,7 @@ An Experienced Solutions Developer who is expanding his knowledge in Data Engine
 
 3+ years of Experience in Leading SQL Data Migration Strategy focusing on on-premise to cloud Migration.
 
-An expert in Collaborating with mutli platform teams who have worked closely with Data Architects, NetOps and Microsoft CMF team.
+An expert in Collaborating with multi platform teams who have worked closely with Data Architects, NetOps and Microsoft CMF team.
 
 Administered the MS SQL Server of the company applications, crafting procedures,SSIS packages and SQL queries to accomplish the dataflow requirements.
 
